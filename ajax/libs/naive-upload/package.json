@@ -1,0 +1,35 @@
+{
+    "name": "naive-upload",
+    "author": "LCTR <lc3586@qq.com>",
+    "license": "Apache-2.0",
+    "version": "0.0.49",
+    "description": "A simple to use file upload component.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Lc3586/NaiveUpload.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Lc3586/NaiveUpload/issues"
+    },
+    "homepage": "https://naive-upload.lctr.top",
+    "keywords": [
+        "vue",
+        "vue2",
+        "vue3",
+        "naiveupload",
+        "naive",
+        "upload",
+        "fileupload",
+        "file upload"
+    ],
+    "filename": "naive-upload.min.js",
+    "npmName": "naive-upload",
+    "npmFileMap": [
+        {
+            "basePath": "dist",
+            "files": [
+                "**/*"
+            ]
+        }
+    ]
+}
